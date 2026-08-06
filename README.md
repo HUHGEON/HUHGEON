@@ -1,4 +1,4 @@
-# 안녕하세요, 백엔드 개발자 허건입니다 👋
+# 👋 안녕하세요, 백엔드 개발자 허건입니다
 
 [![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
 
