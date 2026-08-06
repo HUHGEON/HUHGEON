@@ -1,9 +1,5 @@
 # 👋 안녕하세요, 백엔드 개발자 허건입니다
 
-[![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
-
-<br/>
-
 ## 🙋‍♂️ About Me
 
 - 🎓 명지대학교 컴퓨터공학과 (2020.03 ~ 2026.02)
@@ -58,3 +54,12 @@
 
 - 🥇 명지대학교 캡스톤디자인 **금상** (음성인식 키오스크)
 - 🏆 코드잇 데모데이 **대상** (조각집 ZOGAKZIP)
+---
+
+<div align="center">
+  
+[![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
+
+</div>
+
+<br/>
