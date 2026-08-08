@@ -57,7 +57,8 @@
 ---
 
 <div align="center">
-  
+
+[![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?mode=dark)](https://github.com/TOKENPHAGE)
 [![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
 
 </div>
