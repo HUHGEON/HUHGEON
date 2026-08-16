@@ -4,9 +4,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 명지대학교 컴퓨터공학과 (2020.03 ~ 2026.02)
-- 📫 **Email** - rjs2337@naver.com
-- ✍️ **Tech Blog** — [huhgeon.github.io](https://huhgeon.github.io)
-- 🗂️ **Portfolio** — [huhgeon.github.io/portfolio](https://huhgeon.github.io/portfolio/)
+- 📫 **Email** : rjs2337@naver.com
+- ✍️ **Tech Blog** : [huhgeon.github.io](https://huhgeon.github.io)
+- 🗂️ **Portfolio** : [huhgeon.github.io/portfolio](https://huhgeon.github.io/portfolio/)
 
 
 <br/>
