@@ -59,15 +59,11 @@
 
 <div align="center">
 
-<br>
-
-
 <br/>
 
-[![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?theme=claude&mode=dark)](https://github.com/TOKENPHAGE) 
+<a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
-
-[![Tokenphage](https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
+<a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-grass.svg" alt="AI usage grass" /></a>
 
 </div>
 
