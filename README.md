@@ -1,12 +1,16 @@
 # 👋 안녕하세요, 백엔드 개발자 허건입니다
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F7AA6?style=flat-square&logo=nextdotjs&logoColor=white)](https://huhgeon.github.io/portfolio/)
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-3F6F97?style=flat-square&logo=jekyll&logoColor=white)](https://huhgeon.github.io)
 
 ## 🙋‍♂️ About Me
 
 - 🎓 명지대학교 컴퓨터공학과 (2020.03 ~ 2026.02)
 - 📫 rjs2337@naver.com
+- 🗂️ **Portfolio** — [huhgeon.github.io/portfolio](https://huhgeon.github.io/portfolio/)
+- ✍️ **Tech Blog** — [huhgeon.github.io](https://huhgeon.github.io)
+- 💻 **GitHub** — [github.com/HUHGEON](https://github.com/HUHGEON)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F7AA6?style=flat-square&logo=nextdotjs&logoColor=white)](https://huhgeon.github.io/portfolio/)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-3F6F97?style=flat-square&logo=jekyll&logoColor=white)](https://huhgeon.github.io)
 
 <br/>
 
