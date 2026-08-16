@@ -61,9 +61,11 @@
 
 <br/>
 
+<a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
+
 <a href="https://github.com/TOKENPHAGE"><img width="100%" src="https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark" alt="Tokenphage" /></a>
 
-<a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
+
 
 </div>
 
