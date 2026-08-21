@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-08-21T08:35:41.950Z",
+  "updatedAt": "2026-08-21T15:05:45.906Z",
   "totals": {
-    "totalTokens": 15225500957,
-    "inputTokens": 2710031,
-    "outputTokens": 46207872,
-    "cacheCreationTokens": 250219197,
-    "cacheReadTokens": 14926363721,
-    "totalCost": 11532.877539449997
+    "totalTokens": 15363237709,
+    "inputTokens": 2710701,
+    "outputTokens": 46554116,
+    "cacheCreationTokens": 251664366,
+    "cacheReadTokens": 15062308390,
+    "totalCost": 11620.341810949996
   },
   "daily": [
     {
@@ -1737,31 +1737,52 @@
     },
     {
       "period": "2026-08-21",
-      "totalTokens": 281675867,
-      "inputTokens": 2560,
-      "outputTokens": 1520649,
-      "cacheCreationTokens": 6814292,
-      "cacheReadTokens": 273338366,
-      "totalCost": 220.06218649999994,
+      "totalTokens": 413692327,
+      "inputTokens": 3216,
+      "outputTokens": 1862452,
+      "cacheCreationTokens": 8253669,
+      "cacheReadTokens": 403572990,
+      "totalCost": 304.5024204999992,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 214.96942800000002,
+          "cost": 297.9451574999996,
           "totalTokens": 0,
-          "inputTokens": 2222,
-          "outputTokens": 1438430,
-          "cacheCreationTokens": 6355307,
-          "cacheReadTokens": 257726216,
+          "inputTokens": 2776,
+          "outputTokens": 1745624,
+          "cacheCreationTokens": 7667335,
+          "cacheReadTokens": 383961650,
           "totalCost": 0
         },
         {
           "modelName": "claude-sonnet-5",
-          "cost": 5.0927585,
+          "cost": 6.557262999999995,
           "totalTokens": 0,
-          "inputTokens": 338,
-          "outputTokens": 82219,
-          "cacheCreationTokens": 458985,
-          "cacheReadTokens": 15612150,
+          "inputTokens": 440,
+          "outputTokens": 116828,
+          "cacheCreationTokens": 586334,
+          "cacheReadTokens": 19611340,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-08-22",
+      "totalTokens": 5720292,
+      "inputTokens": 14,
+      "outputTokens": 4441,
+      "cacheCreationTokens": 5792,
+      "cacheReadTokens": 5710045,
+      "totalCost": 3.0240375,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5",
+          "cost": 3.0240375,
+          "totalTokens": 0,
+          "inputTokens": 14,
+          "outputTokens": 4441,
+          "cacheCreationTokens": 5792,
+          "cacheReadTokens": 5710045,
           "totalCost": 0
         }
       ]
