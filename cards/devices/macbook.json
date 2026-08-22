@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-08-21T18:05:53.921Z",
+  "updatedAt": "2026-08-22T03:10:13.150Z",
   "totals": {
-    "totalTokens": 15516497573,
-    "inputTokens": 2711741,
-    "outputTokens": 47160042,
-    "cacheCreationTokens": 253723538,
-    "cacheReadTokens": 15212902116,
-    "totalCost": 11719.384860549997
+    "totalTokens": 15588831506,
+    "inputTokens": 2712213,
+    "outputTokens": 47446531,
+    "cacheCreationTokens": 254876933,
+    "cacheReadTokens": 15283795693,
+    "totalCost": 11768.815031999997
   },
   "daily": [
     {
@@ -1768,31 +1768,31 @@
     },
     {
       "period": "2026-08-22",
-      "totalTokens": 158980156,
-      "inputTokens": 1054,
-      "outputTokens": 610367,
-      "cacheCreationTokens": 2064964,
-      "cacheReadTokens": 156303771,
-      "totalCost": 102.06708709999992,
+      "totalTokens": 231314089,
+      "inputTokens": 1526,
+      "outputTokens": 896856,
+      "cacheCreationTokens": 3218359,
+      "cacheReadTokens": 227197348,
+      "totalCost": 151.4972585500001,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 97.35784899999993,
+          "cost": 144.88231325000004,
           "totalTokens": 0,
-          "inputTokens": 764,
-          "outputTokens": 525230,
-          "cacheCreationTokens": 1643089,
-          "cacheReadTokens": 142290768,
+          "inputTokens": 1134,
+          "outputTokens": 774310,
+          "cacheCreationTokens": 2695878,
+          "cacheReadTokens": 206784854,
           "totalCost": 0
         },
         {
           "modelName": "claude-sonnet-5",
-          "cost": 4.709238099999999,
+          "cost": 6.614945300000002,
           "totalTokens": 0,
-          "inputTokens": 290,
-          "outputTokens": 85137,
-          "cacheCreationTokens": 421875,
-          "cacheReadTokens": 14013003,
+          "inputTokens": 392,
+          "outputTokens": 122546,
+          "cacheCreationTokens": 522481,
+          "cacheReadTokens": 20412494,
           "totalCost": 0
         }
       ]
