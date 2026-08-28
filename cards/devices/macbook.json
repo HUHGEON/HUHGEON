@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-08-28T04:27:18.205Z",
+  "updatedAt": "2026-08-28T07:27:31.028Z",
   "totals": {
-    "totalTokens": 20028877785,
-    "inputTokens": 2735887,
-    "outputTokens": 60507651,
-    "cacheCreationTokens": 310386005,
-    "cacheReadTokens": 19655248106,
-    "totalCost": 14711.060503799994
+    "totalTokens": 20096761076,
+    "inputTokens": 2736173,
+    "outputTokens": 60652541,
+    "cacheCreationTokens": 312665178,
+    "cacheReadTokens": 19720707048,
+    "totalCost": 14769.418994199994
   },
   "daily": [
     {
@@ -1944,31 +1944,31 @@
     },
     {
       "period": "2026-08-28",
-      "totalTokens": 334475008,
-      "inputTokens": 1796,
-      "outputTokens": 1091691,
-      "cacheCreationTokens": 6544519,
-      "cacheReadTokens": 326837002,
-      "totalCost": 245.2981410999999,
+      "totalTokens": 402358299,
+      "inputTokens": 2082,
+      "outputTokens": 1236581,
+      "cacheCreationTokens": 8823692,
+      "cacheReadTokens": 392295944,
+      "totalCost": 303.6566314999996,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 242.22218449999994,
+          "cost": 300.3224794999997,
           "totalTokens": 0,
-          "inputTokens": 1512,
-          "outputTokens": 1033701,
-          "cacheCreationTokens": 6255147,
-          "cacheReadTokens": 317976709,
+          "inputTokens": 1774,
+          "outputTokens": 1173913,
+          "cacheCreationTokens": 8483246,
+          "cacheReadTokens": 383017239,
           "totalCost": 0
         },
         {
           "modelName": "claude-sonnet-5",
-          "cost": 3.0759566,
+          "cost": 3.3341520000000004,
           "totalTokens": 0,
-          "inputTokens": 284,
-          "outputTokens": 57990,
-          "cacheCreationTokens": 289372,
-          "cacheReadTokens": 8860293,
+          "inputTokens": 308,
+          "outputTokens": 62668,
+          "cacheCreationTokens": 340446,
+          "cacheReadTokens": 9278705,
           "totalCost": 0
         }
       ]
