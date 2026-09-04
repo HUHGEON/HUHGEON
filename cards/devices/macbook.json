@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-09-04T03:47:28.296Z",
+  "updatedAt": "2026-09-04T14:47:07.193Z",
   "totals": {
-    "totalTokens": 25886500517,
-    "inputTokens": 2761141,
-    "outputTokens": 71753975,
-    "cacheCreationTokens": 387914721,
-    "cacheReadTokens": 25424070544,
-    "totalCost": 18583.736471649994
+    "totalTokens": 26055160972,
+    "inputTokens": 2762043,
+    "outputTokens": 72220925,
+    "cacheCreationTokens": 390764188,
+    "cacheReadTokens": 25589413680,
+    "totalCost": 18706.580969649996
   },
   "daily": [
     {
@@ -2141,21 +2141,21 @@
     },
     {
       "period": "2026-09-04",
-      "totalTokens": 410710614,
-      "inputTokens": 1316,
-      "outputTokens": 612629,
-      "cacheCreationTokens": 5092638,
-      "cacheReadTokens": 405004031,
-      "totalCost": 260.6806573000002,
+      "totalTokens": 579371069,
+      "inputTokens": 2218,
+      "outputTokens": 1079579,
+      "cacheCreationTokens": 7942105,
+      "cacheReadTokens": 570347167,
+      "totalCost": 383.52515530000034,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 256.94484850000015,
+          "cost": 378.45489600000013,
           "totalTokens": 0,
-          "inputTokens": 1108,
-          "outputTokens": 569088,
-          "cacheCreationTokens": 4434950,
-          "cacheReadTokens": 396725217,
+          "inputTokens": 1996,
+          "outputTokens": 1024007,
+          "cacheCreationTokens": 7202043,
+          "cacheReadTokens": 561648622,
           "totalCost": 0
         },
         {
@@ -2166,6 +2166,16 @@
           "outputTokens": 43541,
           "cacheCreationTokens": 657688,
           "cacheReadTokens": 8278814,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-opus-4-8",
+          "cost": 1.3344505000000002,
+          "totalTokens": 0,
+          "inputTokens": 14,
+          "outputTokens": 12031,
+          "cacheCreationTokens": 82374,
+          "cacheReadTokens": 419731,
           "totalCost": 0
         }
       ]
