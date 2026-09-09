@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-09-09T07:34:54.939Z",
+  "updatedAt": "2026-09-09T13:31:39.587Z",
   "totals": {
-    "totalTokens": 29040707537,
-    "inputTokens": 2777415,
-    "outputTokens": 77864923,
-    "cacheCreationTokens": 436195723,
-    "cacheReadTokens": 28523869340,
-    "totalCost": 20744.249763649997
+    "totalTokens": 29088434816,
+    "inputTokens": 2792761,
+    "outputTokens": 77967584,
+    "cacheCreationTokens": 438217129,
+    "cacheReadTokens": 28569457206,
+    "totalCost": 20789.3964178
   },
   "daily": [
     {
@@ -2276,21 +2276,31 @@
     },
     {
       "period": "2026-09-09",
-      "totalTokens": 80094111,
-      "inputTokens": 252,
-      "outputTokens": 103015,
-      "cacheCreationTokens": 2491415,
-      "cacheReadTokens": 77499429,
-      "totalCost": 65.73234449999998,
+      "totalTokens": 127821390,
+      "inputTokens": 15598,
+      "outputTokens": 205676,
+      "cacheCreationTokens": 4512821,
+      "cacheReadTokens": 123087295,
+      "totalCost": 110.87899864999994,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 65.73234449999998,
+          "cost": 110.76368824999994,
           "totalTokens": 0,
-          "inputTokens": 252,
-          "outputTokens": 103015,
-          "cacheCreationTokens": 2491415,
-          "cacheReadTokens": 77499429,
+          "inputTokens": 426,
+          "outputTokens": 205254,
+          "cacheCreationTokens": 4512821,
+          "cacheReadTokens": 122971839,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-5.6-sol",
+          "cost": 0.11531040000000001,
+          "totalTokens": 0,
+          "inputTokens": 15172,
+          "outputTokens": 422,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 115456,
           "totalCost": 0
         }
       ]
@@ -2298,7 +2308,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 0.020081
+      "undefined": 0.11531040000000001
     },
     "Gemini": {
       "undefined": 0.00434325
