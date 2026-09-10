@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-09-10T05:35:06.167Z",
+  "updatedAt": "2026-09-10T08:39:09.006Z",
   "totals": {
-    "totalTokens": 29161732945,
-    "inputTokens": 2998369,
-    "outputTokens": 78406445,
-    "cacheCreationTokens": 440698245,
-    "cacheReadTokens": 28639629750,
-    "totalCost": 20859.3574839
+    "totalTokens": 29172879197,
+    "inputTokens": 3317987,
+    "outputTokens": 78480708,
+    "cacheCreationTokens": 440730049,
+    "cacheReadTokens": 28650350317,
+    "totalCost": 20872.781220399997
   },
   "daily": [
     {
@@ -2307,31 +2307,31 @@
     },
     {
       "period": "2026-09-10",
-      "totalTokens": 58573205,
-      "inputTokens": 205576,
-      "outputTokens": 422890,
-      "cacheCreationTokens": 2460888,
-      "cacheReadTokens": 55483851,
-      "totalCost": 62.0150046,
+      "totalTokens": 69719457,
+      "inputTokens": 525194,
+      "outputTokens": 497153,
+      "cacheCreationTokens": 2492692,
+      "cacheReadTokens": 66204418,
+      "totalCost": 75.4387411,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 55.43192325000002,
+          "cost": 60.274163750000014,
           "totalTokens": 0,
-          "inputTokens": 430,
-          "outputTokens": 371746,
-          "cacheCreationTokens": 2216579,
-          "cacheReadTokens": 52662614,
+          "inputTokens": 456,
+          "outputTokens": 395493,
+          "cacheCreationTokens": 2248383,
+          "cacheReadTokens": 60523405,
           "totalCost": 0
         },
         {
           "modelName": "gpt-6-astra",
-          "cost": 5.859808,
+          "cost": 14.441304000000002,
           "totalTokens": 0,
-          "inputTokens": 145980,
-          "outputTokens": 45732,
+          "inputTokens": 465572,
+          "outputTokens": 96248,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 2113408,
+          "cacheReadTokens": 4973184,
           "totalCost": 0
         },
         {
@@ -2359,7 +2359,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 6.2076456
+      "undefined": 14.789141600000002
     },
     "Gemini": {
       "undefined": 0.00434325
