@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-09-25T03:18:37.705Z",
+  "updatedAt": "2026-09-25T10:48:41.468Z",
   "totals": {
-    "totalTokens": 31981417544,
-    "inputTokens": 7949801,
-    "outputTokens": 86021503,
-    "cacheCreationTokens": 491776446,
-    "cacheReadTokens": 31395669658,
-    "totalCost": 23066.133002139995
+    "totalTokens": 32107457178,
+    "inputTokens": 8137671,
+    "outputTokens": 86204881,
+    "cacheCreationTokens": 493762568,
+    "cacheReadTokens": 31519351922,
+    "totalCost": 23142.279105189995
   },
   "daily": [
     {
@@ -2942,41 +2942,71 @@
     },
     {
       "period": "2026-09-25",
-      "totalTokens": 35013911,
-      "inputTokens": 457402,
-      "outputTokens": 56565,
-      "cacheCreationTokens": 1468142,
-      "cacheReadTokens": 33031802,
-      "totalCost": 40.8857545,
+      "totalTokens": 161053545,
+      "inputTokens": 645272,
+      "outputTokens": 239943,
+      "cacheCreationTokens": 3454264,
+      "cacheReadTokens": 156714066,
+      "totalCost": 117.03185754999998,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 21.196061500000003,
+          "cost": 34.04968800000001,
           "totalTokens": 0,
-          "inputTokens": 98,
-          "outputTokens": 36296,
-          "cacheCreationTokens": 872886,
-          "cacheReadTokens": 23118623,
+          "inputTokens": 190,
+          "outputTokens": 64315,
+          "cacheCreationTokens": 1302632,
+          "cacheReadTokens": 38829086,
           "totalCost": 0
         },
         {
           "modelName": "gpt-6-astra",
-          "cost": 14.764054,
+          "cost": 26.03904,
           "totalTokens": 0,
-          "inputTokens": 457300,
-          "outputTokens": 18623,
+          "inputTokens": 562560,
+          "outputTokens": 37504,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 9259904,
+          "cacheReadTokens": 18538240,
           "totalCost": 0
         },
         {
           "modelName": "claude-opus-5-5",
-          "cost": 4.925638999999999,
+          "cost": 8.147018599999999,
           "totalTokens": 0,
-          "inputTokens": 4,
-          "outputTokens": 1646,
-          "cacheCreationTokens": 595256,
-          "cacheReadTokens": 653275,
+          "inputTokens": 16,
+          "outputTokens": 6565,
+          "cacheCreationTokens": 938592,
+          "cacheReadTokens": 2534593,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-fable-5-1",
+          "cost": 46.85478425000001,
+          "totalTokens": 0,
+          "inputTokens": 3152,
+          "outputTokens": 128636,
+          "cacheCreationTokens": 844929,
+          "cacheReadTokens": 93971537,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5",
+          "cost": 1.4113483,
+          "totalTokens": 0,
+          "inputTokens": 126,
+          "outputTokens": 646,
+          "cacheCreationTokens": 368111,
+          "cacheReadTokens": 2421794,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-5.6-sol",
+          "cost": 0.5299784,
+          "totalTokens": 0,
+          "inputTokens": 79228,
+          "outputTokens": 2277,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 418816,
           "totalCost": 0
         }
       ]
@@ -2984,7 +3014,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 25.30221004
+      "undefined": 26.5690184
     },
     "Gemini": {
       "undefined": 0.00434325
