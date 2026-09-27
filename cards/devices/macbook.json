@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-09-27T05:27:27.739Z",
+  "updatedAt": "2026-09-27T08:53:21.931Z",
   "totals": {
-    "totalTokens": 32350884138,
-    "inputTokens": 8398307,
-    "outputTokens": 86888087,
-    "cacheCreationTokens": 499332951,
-    "cacheReadTokens": 31756264657,
-    "totalCost": 23299.880790789997
+    "totalTokens": 32400997555,
+    "inputTokens": 8399055,
+    "outputTokens": 86992269,
+    "cacheCreationTokens": 501200232,
+    "cacheReadTokens": 31804405863,
+    "totalCost": 23341.423449439997
   },
   "daily": [
     {
@@ -3054,31 +3054,31 @@
     },
     {
       "period": "2026-09-27",
-      "totalTokens": 142057995,
-      "inputTokens": 2934,
-      "outputTokens": 400752,
-      "cacheCreationTokens": 2652552,
-      "cacheReadTokens": 139001757,
-      "totalCost": 70.27417139999996,
+      "totalTokens": 192171412,
+      "inputTokens": 3682,
+      "outputTokens": 504934,
+      "cacheCreationTokens": 4519833,
+      "cacheReadTokens": 187142963,
+      "totalCost": 111.81683004999992,
       "modelBreakdowns": [
         {
           "modelName": "claude-fable-5-1",
-          "cost": 32.664035,
+          "cost": 60.42707724999999,
           "totalTokens": 0,
-          "inputTokens": 2306,
-          "outputTokens": 151321,
-          "cacheCreationTokens": 705734,
-          "cacheReadTokens": 43840980,
+          "inputTokens": 2884,
+          "outputTokens": 189386,
+          "cacheCreationTokens": 1809397,
+          "cacheReadTokens": 58963989,
           "totalCost": 0
         },
         {
           "modelName": "claude-opus-5-5",
-          "cost": 37.61013639999997,
+          "cost": 51.389752799999975,
           "totalTokens": 0,
-          "inputTokens": 628,
-          "outputTokens": 249431,
-          "cacheCreationTokens": 1946818,
-          "cacheReadTokens": 95160777,
+          "inputTokens": 798,
+          "outputTokens": 315548,
+          "cacheCreationTokens": 2710436,
+          "cacheReadTokens": 128178974,
           "totalCost": 0
         }
       ]
