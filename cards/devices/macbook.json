@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-10-14T05:32:54.905Z",
+  "updatedAt": "2026-10-14T08:33:04.599Z",
   "totals": {
-    "totalTokens": 37971740070,
-    "inputTokens": 11138374,
-    "outputTokens": 98726395,
-    "cacheCreationTokens": 611553017,
-    "cacheReadTokens": 37250322148,
-    "totalCost": 25632.14662230001
+    "totalTokens": 38106544076,
+    "inputTokens": 11536548,
+    "outputTokens": 99064010,
+    "cacheCreationTokens": 612123057,
+    "cacheReadTokens": 37383820325,
+    "totalCost": 25680.682730500008
   },
   "daily": [
     {
@@ -3571,21 +3571,31 @@
     },
     {
       "period": "2026-10-14",
-      "totalTokens": 127538053,
-      "inputTokens": 900,
-      "outputTokens": 218884,
-      "cacheCreationTokens": 2306449,
-      "cacheReadTokens": 125011820,
-      "totalCost": 45.098978,
+      "totalTokens": 262342059,
+      "inputTokens": 399074,
+      "outputTokens": 556499,
+      "cacheCreationTokens": 2876489,
+      "cacheReadTokens": 258509997,
+      "totalCost": 93.63508619999995,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 45.098978,
+          "cost": 81.16719019999995,
           "totalTokens": 0,
-          "inputTokens": 900,
-          "outputTokens": 218884,
-          "cacheCreationTokens": 2306449,
-          "cacheReadTokens": 125011820,
+          "inputTokens": 1434,
+          "outputTokens": 531711,
+          "cacheCreationTokens": 2876489,
+          "cacheReadTokens": 251257901,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-6-astra",
+          "cost": 12.467896,
+          "totalTokens": 0,
+          "inputTokens": 397640,
+          "outputTokens": 24788,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7252096,
           "totalCost": 0
         }
       ]
