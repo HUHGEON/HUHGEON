@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-10-19T16:51:36.715Z",
+  "updatedAt": "2026-10-19T19:51:45.928Z",
   "totals": {
-    "totalTokens": 40497064643,
-    "inputTokens": 12584307,
-    "outputTokens": 103510336,
-    "cacheCreationTokens": 639572665,
-    "cacheReadTokens": 39741397199,
-    "totalCost": 26449.35808190001
+    "totalTokens": 40504151021,
+    "inputTokens": 12584333,
+    "outputTokens": 103513797,
+    "cacheCreationTokens": 639577693,
+    "cacheReadTokens": 39748475062,
+    "totalCost": 26450.88320250001
   },
   "daily": [
     {
@@ -3737,21 +3737,21 @@
     },
     {
       "period": "2026-10-20",
-      "totalTokens": 107148290,
-      "inputTokens": 450,
-      "outputTokens": 100291,
-      "cacheCreationTokens": 626396,
-      "cacheReadTokens": 106421153,
-      "totalCost": 27.822361599999994,
+      "totalTokens": 114234668,
+      "inputTokens": 476,
+      "outputTokens": 103752,
+      "cacheCreationTokens": 631424,
+      "cacheReadTokens": 113499016,
+      "totalCost": 29.347482199999995,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 27.822361599999994,
+          "cost": 29.347482199999995,
           "totalTokens": 0,
-          "inputTokens": 450,
-          "outputTokens": 100291,
-          "cacheCreationTokens": 626396,
-          "cacheReadTokens": 106421153,
+          "inputTokens": 476,
+          "outputTokens": 103752,
+          "cacheCreationTokens": 631424,
+          "cacheReadTokens": 113499016,
           "totalCost": 0
         }
       ]
