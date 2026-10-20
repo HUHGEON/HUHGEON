@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-10-20T07:31:58.006Z",
+  "updatedAt": "2026-10-20T11:01:01.291Z",
   "totals": {
-    "totalTokens": 40925180752,
-    "inputTokens": 13417018,
-    "outputTokens": 105120371,
-    "cacheCreationTokens": 646411012,
-    "cacheReadTokens": 40160232215,
-    "totalCost": 26624.77407750001
+    "totalTokens": 41167348726,
+    "inputTokens": 13451902,
+    "outputTokens": 105545077,
+    "cacheCreationTokens": 648566533,
+    "cacheReadTokens": 40399785078,
+    "totalCost": 26698.73462470001
   },
   "daily": [
     {
@@ -3737,31 +3737,31 @@
     },
     {
       "period": "2026-10-20",
-      "totalTokens": 535264399,
-      "inputTokens": 833161,
-      "outputTokens": 1710326,
-      "cacheCreationTokens": 7464743,
-      "cacheReadTokens": 525256169,
-      "totalCost": 203.23835720000014,
+      "totalTokens": 777432373,
+      "inputTokens": 868045,
+      "outputTokens": 2135032,
+      "cacheCreationTokens": 9620264,
+      "cacheReadTokens": 764809032,
+      "totalCost": 277.1989043999998,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 181.03001920000014,
+          "cost": 250.32725439999976,
           "totalTokens": 0,
-          "inputTokens": 3938,
-          "outputTokens": 1650848,
-          "cacheCreationTokens": 7464743,
-          "cacheReadTokens": 514313961,
+          "inputTokens": 5420,
+          "outputTokens": 2069196,
+          "cacheCreationTokens": 9620264,
+          "cacheReadTokens": 749855432,
           "totalCost": 0
         },
         {
           "modelName": "gpt-6-astra",
-          "cost": 22.208337999999998,
+          "cost": 26.871650000000002,
           "totalTokens": 0,
-          "inputTokens": 829223,
-          "outputTokens": 59478,
+          "inputTokens": 862625,
+          "outputTokens": 65836,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 10942208,
+          "cacheReadTokens": 14953600,
           "totalCost": 0
         }
       ]
@@ -3769,7 +3769,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 26.5690184
+      "undefined": 26.871650000000002
     },
     "Gemini": {
       "undefined": 0.00434325
