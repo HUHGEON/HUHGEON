@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-10-21T04:27:14.416Z",
+  "updatedAt": "2026-10-21T08:35:08.613Z",
   "totals": {
-    "totalTokens": 41217040369,
-    "inputTokens": 13809694,
-    "outputTokens": 105725869,
-    "cacheCreationTokens": 649353362,
-    "cacheReadTokens": 40448151308,
-    "totalCost": 26723.23362510001
+    "totalTokens": 41304545643,
+    "inputTokens": 13964647,
+    "outputTokens": 105974918,
+    "cacheCreationTokens": 650666554,
+    "cacheReadTokens": 40533939388,
+    "totalCost": 26757.26377310001
   },
   "daily": [
     {
@@ -3768,31 +3768,31 @@
     },
     {
       "period": "2026-10-21",
-      "totalTokens": 49360028,
-      "inputTokens": 357782,
-      "outputTokens": 179278,
-      "cacheCreationTokens": 747064,
-      "cacheReadTokens": 48075904,
-      "totalCost": 24.09249520000001,
+      "totalTokens": 136865302,
+      "inputTokens": 512735,
+      "outputTokens": 428327,
+      "cacheCreationTokens": 2060256,
+      "cacheReadTokens": 133863984,
+      "totalCost": 58.12264320000005,
       "modelBreakdowns": [
         {
           "modelName": "gpt-6-astra",
-          "cost": 6.215798,
+          "cost": 9.742218,
           "totalTokens": 0,
-          "inputTokens": 357198,
-          "outputTokens": 10877,
+          "inputTokens": 511335,
+          "outputTokens": 18450,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 2099968,
+          "cacheReadTokens": 3706368,
           "totalCost": 0
         },
         {
           "modelName": "claude-opus-5-5",
-          "cost": 17.87669720000001,
+          "cost": 48.38042520000005,
           "totalTokens": 0,
-          "inputTokens": 584,
-          "outputTokens": 168401,
-          "cacheCreationTokens": 747064,
-          "cacheReadTokens": 45975936,
+          "inputTokens": 1400,
+          "outputTokens": 409877,
+          "cacheCreationTokens": 2060256,
+          "cacheReadTokens": 130157616,
           "totalCost": 0
         }
       ]
