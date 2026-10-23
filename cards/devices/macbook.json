@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-10-23T09:24:45.926Z",
+  "updatedAt": "2026-10-23T12:25:56.235Z",
   "totals": {
-    "totalTokens": 43326742254,
-    "inputTokens": 14508466,
-    "outputTokens": 111199139,
-    "cacheCreationTokens": 674461301,
-    "cacheReadTokens": 42526573212,
-    "totalCost": 27451.38623560001
+    "totalTokens": 43436665888,
+    "inputTokens": 14821179,
+    "outputTokens": 111557277,
+    "cacheCreationTokens": 675350658,
+    "cacheReadTokens": 42634936638,
+    "totalCost": 27490.88208960001
   },
   "daily": [
     {
@@ -3830,31 +3830,31 @@
     },
     {
       "period": "2026-10-23",
-      "totalTokens": 703608111,
-      "inputTokens": 230412,
-      "outputTokens": 1545520,
-      "cacheCreationTokens": 7949650,
-      "cacheReadTokens": 693882529,
-      "totalCost": 231.1415443000001,
+      "totalTokens": 813531745,
+      "inputTokens": 543125,
+      "outputTokens": 1903658,
+      "cacheCreationTokens": 8839007,
+      "cacheReadTokens": 802245955,
+      "totalCost": 270.6373983000002,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 222.09398280000016,
+          "cost": 257.88382080000025,
           "totalTokens": 0,
-          "inputTokens": 4776,
-          "outputTokens": 1515234,
-          "cacheCreationTokens": 7830954,
-          "cacheReadTokens": 688147554,
+          "inputTokens": 5168,
+          "outputTokens": 1868825,
+          "cacheCreationTokens": 8720311,
+          "cacheReadTokens": 796155524,
           "totalCost": 0
         },
         {
           "modelName": "gpt-6-astra",
-          "cost": 6.215568,
+          "cost": 9.921584000000001,
           "totalTokens": 0,
-          "inputTokens": 225600,
-          "outputTokens": 9352,
+          "inputTokens": 537921,
+          "outputTokens": 13899,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 3491968,
+          "cacheReadTokens": 3847424,
           "totalCost": 0
         },
         {
