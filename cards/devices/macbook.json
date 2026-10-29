@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-10-29T02:36:22.872Z",
+  "updatedAt": "2026-10-29T05:36:32.688Z",
   "totals": {
-    "totalTokens": 44914200142,
-    "inputTokens": 15888195,
-    "outputTokens": 116672407,
-    "cacheCreationTokens": 699017788,
-    "cacheReadTokens": 44082621616,
-    "totalCost": 28098.72452470001
+    "totalTokens": 45050407740,
+    "inputTokens": 15888877,
+    "outputTokens": 117058710,
+    "cacheCreationTokens": 700290562,
+    "cacheReadTokens": 44217169455,
+    "totalCost": 28181.45583070001
   },
   "daily": [
     {
@@ -4036,31 +4036,31 @@
     },
     {
       "period": "2026-10-29",
-      "totalTokens": 92081801,
-      "inputTokens": 788,
-      "outputTokens": 492771,
-      "cacheCreationTokens": 3238452,
-      "cacheReadTokens": 88349790,
-      "totalCost": 50.21844940000005,
+      "totalTokens": 228289399,
+      "inputTokens": 1470,
+      "outputTokens": 879074,
+      "cacheCreationTokens": 4511226,
+      "cacheReadTokens": 222897629,
+      "totalCost": 132.94975539999993,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 47.31348040000006,
+          "cost": 57.46312940000005,
           "totalTokens": 0,
-          "inputTokens": 776,
-          "outputTokens": 485159,
-          "cacheCreationTokens": 3220080,
-          "cacheReadTokens": 83288012,
+          "inputTokens": 932,
+          "outputTokens": 570616,
+          "cacheCreationTokens": 3835673,
+          "cacheReadTokens": 100863717,
           "totalCost": 0
         },
         {
           "modelName": "claude-opus-5",
-          "cost": 2.904969,
+          "cost": 75.48662599999997,
           "totalTokens": 0,
-          "inputTokens": 12,
-          "outputTokens": 7612,
-          "cacheCreationTokens": 18372,
-          "cacheReadTokens": 5061778,
+          "inputTokens": 538,
+          "outputTokens": 308458,
+          "cacheCreationTokens": 675553,
+          "cacheReadTokens": 122033912,
           "totalCost": 0
         }
       ]
