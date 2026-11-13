@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-11-13T09:16:15.485Z",
+  "updatedAt": "2026-11-13T12:16:28.255Z",
   "totals": {
-    "totalTokens": 50628779009,
-    "inputTokens": 16512190,
-    "outputTokens": 140043598,
-    "cacheCreationTokens": 776381122,
-    "cacheReadTokens": 49695841963,
-    "totalCost": 32104.10792260001
+    "totalTokens": 50650809158,
+    "inputTokens": 16512352,
+    "outputTokens": 140112111,
+    "cacheCreationTokens": 776878620,
+    "cacheReadTokens": 49717305939,
+    "totalCost": 32115.30058850001
   },
   "daily": [
     {
@@ -4430,31 +4430,31 @@
     },
     {
       "period": "2026-11-13",
-      "totalTokens": 27140155,
-      "inputTokens": 278,
-      "outputTokens": 124394,
-      "cacheCreationTokens": 438444,
-      "cacheReadTokens": 26577039,
-      "totalCost": 14.775544500000006,
+      "totalTokens": 49170304,
+      "inputTokens": 440,
+      "outputTokens": 192907,
+      "cacheCreationTokens": 935942,
+      "cacheReadTokens": 48041015,
+      "totalCost": 25.968210400000007,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 7.8973745000000015,
+          "cost": 11.081089000000002,
           "totalTokens": 0,
-          "inputTokens": 120,
-          "outputTokens": 56118,
-          "cacheCreationTokens": 178353,
-          "cacheReadTokens": 9420589,
+          "inputTokens": 160,
+          "outputTokens": 77211,
+          "cacheCreationTokens": 215913,
+          "cacheReadTokens": 13981768,
           "totalCost": 0
         },
         {
           "modelName": "claude-opus-5-5",
-          "cost": 6.878170000000001,
+          "cost": 14.887121400000003,
           "totalTokens": 0,
-          "inputTokens": 158,
-          "outputTokens": 68276,
-          "cacheCreationTokens": 260091,
-          "cacheReadTokens": 17156450,
+          "inputTokens": 280,
+          "outputTokens": 115696,
+          "cacheCreationTokens": 720029,
+          "cacheReadTokens": 34059247,
           "totalCost": 0
         }
       ]
