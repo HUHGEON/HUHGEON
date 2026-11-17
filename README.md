@@ -69,24 +69,34 @@ NLP 서버 설계 주도 · 2인 · `2025.03 ~ 06`<br/>
 
 해야지 · 블로그 플랫폼 · 조각집을 포함한 전체 프로젝트와 측정 조건은 [포트폴리오](https://huhgeon.github.io/portfolio/)에 있습니다.
 
-## About
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<table width="100%">
-<tr><td width="20%"><code>2020.03 ~ 2026.02</code></td><td width="10%">학력</td><td>명지대학교 컴퓨터공학과</td></tr>
-<tr><td><code>2026.04 ~ 2026.10</code></td><td>교육</td><td>LG U+ 유레카 백엔드 과정 수료</td></tr>
-<tr><td><code>2025.08 ~ 2026.01</code></td><td>경력</td><td>백엔드 개발 인턴</td></tr>
-<tr><td><code>2025.06</code></td><td>자격</td><td>SQLD · 한국데이터산업진흥원</td></tr>
-<tr><td><code>2025.06</code></td><td>금상</td><td>명지대학교 캡스톤디자인 · 음성인식 키오스크</td></tr>
-<tr><td><code>2024.09</code></td><td>대상</td><td>코드잇 데모데이 · 조각집 ZOGAKZIP</td></tr>
-</table>
+#### About
 
-## Stack
+`2020.03 ~ 2026.02` &nbsp;학력&nbsp; 명지대학교 컴퓨터공학과<br/>
+`2026.04 ~ 2026.10` &nbsp;교육&nbsp; LG U+ 유레카 백엔드 과정 수료<br/>
+`2025.08 ~ 2026.01` &nbsp;경력&nbsp; 백엔드 개발 인턴<br/>
+`2025.06` &nbsp;자격&nbsp; SQLD · 한국데이터산업진흥원<br/>
+`2025.06` &nbsp;금상&nbsp; 명지대학교 캡스톤디자인 · 음성인식 키오스크<br/>
+`2024.09` &nbsp;대상&nbsp; 코드잇 데모데이 · 조각집 ZOGAKZIP
 
-<table width="100%">
-<tr><td width="18%"><b>Language</b></td><td><code>Java</code> <code>Python</code></td></tr>
-<tr><td><b>Framework</b></td><td><code>Spring Boot</code> <code>Spring WebFlux</code> <code>JPA</code> <code>FastAPI</code> <code>Node.js</code></td></tr>
-<tr><td><b>Data</b></td><td><code>MySQL</code> <code>Redis</code> <code>MongoDB</code> <code>Kafka</code></td></tr>
-<tr><td><b>Infra</b></td><td><code>Docker</code> <code>Kubernetes</code> <code>AWS</code> <code>Grafana</code> <code>k6</code></td></tr>
+</td>
+<td width="45%" valign="top">
+
+#### Stack
+
+**Language** &nbsp; `Java` `Python`
+
+**Framework** &nbsp; `Spring Boot` `Spring WebFlux` `JPA` `FastAPI` `Node.js`
+
+**Data** &nbsp; `MySQL` `Redis` `MongoDB` `Kafka`
+
+**Infra** &nbsp; `Docker` `Kubernetes` `AWS` `Grafana` `k6`
+
+</td>
+</tr>
 </table>
 
 ## Stats
