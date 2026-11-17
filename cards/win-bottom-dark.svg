@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44">
-<path d="M0,0 L0,30 Q0,44 14,44 L1186,44 Q1200,44 1200,30 L1200,0 Z" fill="#1C212A" stroke="#232A33" stroke-width="1"/>
-<text x="26" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',monospace" font-size="13"><tspan fill="#86AD8E">⎇ main</tspan><tspan fill="#808997" dx="16">~/heo-geon · 6 projects</tspan></text>
-<text x="1174" y="27" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',monospace" font-size="13" fill="#808997">UTF-8   LF   zsh</text>
-</svg>
