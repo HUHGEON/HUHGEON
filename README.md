@@ -1,23 +1,20 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/win-top-dark.svg"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/win-top-light.svg" alt="~/heo-geon · zsh"></picture>
 
-`❯` **Backend Developer**
-
 # 허건
+
+Backend Developer
 
 트래픽이 몰리고 외부가 실패하는 조건을 먼저 정해 두고,
 그 조건을 버티는 서버를 만듭니다.
 
 [포트폴리오 ↗](https://huhgeon.github.io/portfolio/) · [기술 블로그 ↗](https://huhgeon.github.io) · [rjs2337@naver.com](mailto:rjs2337@naver.com)
 
-> [!NOTE]
-> 아래 수치는 전부 직접 돌려 재 본 값입니다. 측정 조건과 설계 근거는 **[포트폴리오](https://huhgeon.github.io/portfolio/)** 에 함께 적어 두었습니다.
-
 ## ❯ ls ./projects
 
 <table>
 <tr><td colspan="2" valign="top">
 
-#### [NOVA](https://github.com/Nova-Grandis/be) · 대규모 트래픽 커머스 →
+#### [NOVA](https://github.com/Nova-Grandis/be) · 대규모 트래픽 커머스
 
 `2026.09 ~ 10` `7인 팀` `인증 · 상품 · 장바구니 · 럭키드로우 · 공통 모듈`
 
@@ -28,12 +25,12 @@
 </td></tr>
 <tr><td width="50%" valign="top">
 
-#### [sapari 라이브 채팅](https://github.com/sago-panda/sapari-be) →
+#### [sapari 라이브 채팅](https://github.com/sago-panda/sapari-be)
 
 라이브 커머스 채팅 서버
 
 `2026.06 ~ 진행 중` `단독 담당`
-`WebSocket 전송 · Pod 간 중계` `강퇴와 자동 밴` `RS256 룸 토큰`
+`WebSocket 전송` `Pod 간 중계` `강퇴와 자동 밴` `RS256 룸 토큰`
 
 - 채팅 관련 시험 **507개** 전부 통과
 - 채팅 모듈 커밋 **159개** 전부 본인
@@ -41,7 +38,7 @@
 
 </td><td width="50%" valign="top">
 
-#### [쿠폰야호](https://github.com/coupon-yaho/cy-be) →
+#### [쿠폰야호](https://github.com/coupon-yaho/cy-be)
 
 선착순 발급과 적응형 대기열
 
@@ -55,8 +52,7 @@
 </td></tr>
 </table>
 
-> [!TIP]
-> 음성인식 키오스크 · 해야지 · 블로그 플랫폼 · 조각집을 포함한 전체 프로젝트는 [포트폴리오](https://huhgeon.github.io/portfolio/)에 있습니다.
+수치는 전부 직접 돌려 재 본 값입니다. 측정 조건과 설계 근거, 그리고 음성인식 키오스크 · 해야지 · 블로그 플랫폼 · 조각집은 [포트폴리오](https://huhgeon.github.io/portfolio/)에 있습니다.
 
 ## ❯ cat ./about
 
@@ -86,5 +82,3 @@ infra/       Docker   Kubernetes   Grafana   k6
 <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
 <a href="https://github.com/TOKENPHAGE"><img width="100%" src="https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark" alt="Tokenphage" /></a>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/win-bottom-dark.svg"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/win-bottom-light.svg" alt="main · ~/heo-geon"></picture>
