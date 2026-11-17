@@ -104,16 +104,6 @@ LG U+ 유레카 백엔드 과정 수료<br/>
 SQLD · 한국데이터산업진흥원<br/>
 `2025.06`
 
-<br/>
-
-## Awards
-
-🥇 **금상**<br/>
-명지대학교 캡스톤디자인 · 음성인식 키오스크
-
-🏆 **대상**<br/>
-코드잇 데모데이 · 조각집 ZOGAKZIP
-
 </td>
 <td width="58%" valign="top">
 
@@ -144,6 +134,12 @@ SQLD · 한국데이터산업진흥원<br/>
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+🥇 &nbsp;**금상** &nbsp;명지대학교 캡스톤디자인 · 음성인식 키오스크 &nbsp;&nbsp;&nbsp; 🏆 &nbsp;**대상** &nbsp;코드잇 데모데이 · 조각집 ZOGAKZIP
+
+</div>
 
 ## GitHub
 
