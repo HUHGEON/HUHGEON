@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46">
+<path d="M0,46 L0,14 Q0,0 14,0 L1186,0 Q1200,0 1200,14 L1200,46 Z" fill="#FAFAFA" stroke="#E7E7E7" stroke-width="1"/>
+<circle cx="26" cy="23" r="6" fill="#FF5F57"/>
+<circle cx="47" cy="23" r="6" fill="#FEBC2E"/>
+<circle cx="68" cy="23" r="6" fill="#28C840"/>
+<text x="600.0" y="28" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',monospace" font-size="13" fill="#707070">~/heo-geon · zsh · 96×40</text>
+</svg>
