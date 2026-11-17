@@ -1,10 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=HUH%20GEON&fontSize=56&fontColor=EEF2F6&fontAlignY=37&desc=Backend%20Developer&descSize=18&descAlignY=57&animation=fadeIn" alt="허건 · Backend Developer" />
+
 <div align="center">
 
-# 허건 · Backend Developer
+<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+KR&weight=600&size=21&duration=3800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=46&lines=%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4+%EB%AA%B0%EB%A6%AC%EA%B3%A0+%EC%99%B8%EB%B6%80%EA%B0%80+%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94+%EC%A1%B0%EA%B1%B4%EC%9D%84+%EB%A8%BC%EC%A0%80+%EC%A0%95%ED%95%B4+%EB%91%90%EA%B3%A0%2C;%EA%B7%B8+%EC%A1%B0%EA%B1%B4%EC%9D%84+%EB%B2%84%ED%8B%B0%EB%8A%94+%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4." alt="트래픽이 몰리고 외부가 실패하는 조건을 먼저 정해 두고, 그 조건을 버티는 서버를 만듭니다." />
 
-**트래픽이 몰리고 외부가 실패하는 조건을 먼저 정해 두고, 그 조건을 버티는 서버를 만듭니다.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F7AA6?style=for-the-badge&logo=vercel&logoColor=white)](https://huhgeon.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://huhgeon.github.io/portfolio/)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-24292F?style=for-the-badge&logo=github&logoColor=white)](https://huhgeon.github.io)
 [![Email](https://img.shields.io/badge/rjs2337@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:rjs2337@naver.com)
 
@@ -19,7 +19,7 @@
 <tr>
 <td width="33%" valign="top">
 
-[![NOVA](https://img.shields.io/badge/NOVA-4F7AA6?style=for-the-badge&logoColor=white)](https://github.com/Nova-Grandis/be)
+[![NOVA](https://img.shields.io/badge/NOVA-1F6FEB?style=for-the-badge&logoColor=white)](https://github.com/Nova-Grandis/be)
 
 **대규모 트래픽 커머스**<br/>
 `2026.09 ~ 10` · 7인 팀
@@ -39,7 +39,7 @@
 </td>
 <td width="33%" valign="top">
 
-[![sapari](https://img.shields.io/badge/sapari%20라이브%20채팅-2F8F86?style=for-the-badge&logoColor=white)](https://github.com/sago-panda/sapari-be)
+[![sapari](https://img.shields.io/badge/sapari%20라이브%20채팅-238636?style=for-the-badge&logoColor=white)](https://github.com/sago-panda/sapari-be)
 
 **라이브 커머스 채팅 서버**<br/>
 `2026.06 ~` · 단독 담당
@@ -58,7 +58,7 @@ WebSocket 전송 계층 · Pod 간 중계<br/>
 </td>
 <td width="33%" valign="top">
 
-[![쿠폰야호](https://img.shields.io/badge/쿠폰야호-96671C?style=for-the-badge&logoColor=white)](https://github.com/coupon-yaho/cy-be)
+[![쿠폰야호](https://img.shields.io/badge/쿠폰야호-9E6A03?style=for-the-badge&logoColor=white)](https://github.com/coupon-yaho/cy-be)
 
 **선착순 발급과 적응형 대기열**<br/>
 `2026.08` · 조장, 5인 팀
@@ -145,10 +145,27 @@ SQLD · 한국데이터산업진흥원<br/>
 </tr>
 </table>
 
+## GitHub
+
 <div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HUHGEON&theme=github_dark" alt="프로필 요약" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HUHGEON&theme=github_dark" alt="활동 통계" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HUHGEON&theme=github_dark" alt="커밋 기준 주력 언어" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=HUHGEON&theme=github-dark-blue&hide_border=true" alt="연속 기록" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HUHGEON&theme=github_dark&utcOffset=9" alt="시간대별 커밋" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HUHGEON&bg_color=0D1117&color=58A6FF&line=58A6FF&point=EEF2F6&area_color=1F6FEB&area=true&hide_border=true&custom_title=Contributions" alt="기여 그래프" />
+
+<br/>
+<br/>
 
 <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
 <a href="https://github.com/TOKENPHAGE"><img width="100%" src="https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark" alt="Tokenphage" /></a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" alt="" />
