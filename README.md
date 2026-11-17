@@ -104,6 +104,16 @@ LG U+ 유레카 백엔드 과정 수료<br/>
 SQLD · 한국데이터산업진흥원<br/>
 `2025.06`
 
+<br/>
+
+## Awards
+
+🥇 **금상**<br/>
+명지대학교 캡스톤디자인 · 음성인식 키오스크
+
+🏆 **대상**<br/>
+코드잇 데모데이 · 조각집 ZOGAKZIP
+
 </td>
 <td width="58%" valign="top">
 
@@ -130,13 +140,6 @@ SQLD · 한국데이터산업진흥원<br/>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-
-<br/>
-
-## Awards
-
-🥇 **금상** 명지대학교 캡스톤디자인 · 음성인식 키오스크<br/>
-🏆 **대상** 코드잇 데모데이 · 조각집 ZOGAKZIP
 
 </td>
 </tr>
