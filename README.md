@@ -8,7 +8,7 @@
 
 ## Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -71,23 +71,23 @@ NLP 서버 설계 주도 · 2인 · `2025.03 ~ 06`<br/>
 
 ## About
 
-| 기간 | | |
-| :-- | :-- | :-- |
-| `2020.03 ~ 2026.02` | 학력 | 명지대학교 컴퓨터공학과 |
-| `2026.04 ~ 2026.10` | 교육 | LG U+ 유레카 백엔드 과정 수료 |
-| `2025.08 ~ 2026.01` | 경력 | 백엔드 개발 인턴 |
-| `2025.06` | 자격 | SQLD · 한국데이터산업진흥원 |
-| `2025.06` | 금상 | 명지대학교 캡스톤디자인 · 음성인식 키오스크 |
-| `2024.09` | 대상 | 코드잇 데모데이 · 조각집 ZOGAKZIP |
+<table width="100%">
+<tr><td width="20%"><code>2020.03 ~ 2026.02</code></td><td width="10%">학력</td><td>명지대학교 컴퓨터공학과</td></tr>
+<tr><td><code>2026.04 ~ 2026.10</code></td><td>교육</td><td>LG U+ 유레카 백엔드 과정 수료</td></tr>
+<tr><td><code>2025.08 ~ 2026.01</code></td><td>경력</td><td>백엔드 개발 인턴</td></tr>
+<tr><td><code>2025.06</code></td><td>자격</td><td>SQLD · 한국데이터산업진흥원</td></tr>
+<tr><td><code>2025.06</code></td><td>금상</td><td>명지대학교 캡스톤디자인 · 음성인식 키오스크</td></tr>
+<tr><td><code>2024.09</code></td><td>대상</td><td>코드잇 데모데이 · 조각집 ZOGAKZIP</td></tr>
+</table>
 
 ## Stack
 
-| | |
-| :-- | :-- |
-| **Language** | `Java` `Python` |
-| **Framework** | `Spring Boot` `Spring WebFlux` `JPA` `FastAPI` `Node.js` |
-| **Data** | `MySQL` `Redis` `MongoDB` `Kafka` |
-| **Infra** | `Docker` `Kubernetes` `AWS` `Grafana` `k6` |
+<table width="100%">
+<tr><td width="18%"><b>Language</b></td><td><code>Java</code> <code>Python</code></td></tr>
+<tr><td><b>Framework</b></td><td><code>Spring Boot</code> <code>Spring WebFlux</code> <code>JPA</code> <code>FastAPI</code> <code>Node.js</code></td></tr>
+<tr><td><b>Data</b></td><td><code>MySQL</code> <code>Redis</code> <code>MongoDB</code> <code>Kafka</code></td></tr>
+<tr><td><b>Infra</b></td><td><code>Docker</code> <code>Kubernetes</code> <code>AWS</code> <code>Grafana</code> <code>k6</code></td></tr>
+</table>
 
 ## Stats
 
