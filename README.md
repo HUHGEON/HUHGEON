@@ -1,167 +1,70 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=HUH%20GEON&fontSize=56&fontColor=EEF2F6&fontAlignY=37&desc=Backend%20Developer&descSize=18&descAlignY=57&animation=fadeIn" alt="허건 · Backend Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/term-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/term-light.svg" alt="허건 · Backend Developer">
+</picture>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+KR&weight=600&size=21&duration=3800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=46&lines=%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4+%EB%AA%B0%EB%A6%AC%EA%B3%A0+%EC%99%B8%EB%B6%80%EA%B0%80+%EC%8B%A4%ED%8C%A8%ED%95%98%EB%8A%94+%EC%A1%B0%EA%B1%B4%EC%9D%84+%EB%A8%BC%EC%A0%80+%EC%A0%95%ED%95%B4+%EB%91%90%EA%B3%A0%2C;%EA%B7%B8+%EC%A1%B0%EA%B1%B4%EC%9D%84+%EB%B2%84%ED%8B%B0%EB%8A%94+%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4." alt="트래픽이 몰리고 외부가 실패하는 조건을 먼저 정해 두고, 그 조건을 버티는 서버를 만듭니다." />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://huhgeon.github.io/portfolio/)
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-24292F?style=for-the-badge&logo=github&logoColor=white)](https://huhgeon.github.io)
-[![Email](https://img.shields.io/badge/rjs2337@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:rjs2337@naver.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/portfolio-161B22?style=flat-square&logo=vercel&logoColor=58A6FF&labelColor=0D1117)](https://huhgeon.github.io/portfolio/)
+[![Tech Blog](https://img.shields.io/badge/tech%20blog-161B22?style=flat-square&logo=github&logoColor=58A6FF&labelColor=0D1117)](https://huhgeon.github.io)
+[![Email](https://img.shields.io/badge/rjs2337@naver.com-161B22?style=flat-square&logo=maildotru&logoColor=58A6FF&labelColor=0D1117)](mailto:rjs2337@naver.com)
 
 > [!NOTE]
 > 아래 수치는 전부 직접 돌려 재 본 값입니다. 측정 조건과 설계 근거는 **[포트폴리오](https://huhgeon.github.io/portfolio/)** 에 함께 적어 두었습니다.
 
-## 대표 프로젝트
+## ❯ ls ./projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+#### [NOVA](https://github.com/Nova-Grandis/be) · 대규모 트래픽 커머스
 
-[![NOVA](https://img.shields.io/badge/NOVA-1F6FEB?style=for-the-badge&logoColor=white)](https://github.com/Nova-Grandis/be)
+`2026.09 ~ 10` `7인 팀` `인증 · 상품 · 장바구니 · 럭키드로우 · 공통 모듈`
 
-**대규모 트래픽 커머스**<br/>
-`2026.09 ~ 10` · 7인 팀
+- 10초에 5,000명이 몰릴 때 접수 응답 **113ms**
+- 서버 오류 **0건**
+- 동시 접수 데드락 **4/4 → 0/4**
 
-인증 · 상품 · 장바구니<br/>
-럭키드로우 · 공통 모듈
+#### [sapari 라이브 채팅](https://github.com/sago-panda/sapari-be) · 라이브 커머스 채팅 서버
 
----
+`2026.06 ~ 진행 중` `단독 담당` `WebSocket 전송 · Pod 간 중계 · 강퇴와 자동 밴 · RS256 룸 토큰`
 
-10초에 5,000명이 몰릴 때<br/>
-접수 응답 **113ms**
+- 채팅 관련 시험 **507개** 전부 통과
+- 채팅 모듈 커밋 **159개** 전부 본인
+- 조회가 실패해도 채팅은 열어 두는 지점 **5곳**
 
-서버 오류 **0건**
+#### [쿠폰야호](https://github.com/coupon-yaho/cy-be) · 선착순 발급과 적응형 대기열
 
-동시 접수 데드락 **4/4 → 0/4**
+`2026.08` `조장, 5인 팀` `정합성 검증 배치 · 대용량 시드 생성 · 스키마`
 
-</td>
-<td width="33%" valign="top">
-
-[![sapari](https://img.shields.io/badge/sapari%20라이브%20채팅-238636?style=for-the-badge&logoColor=white)](https://github.com/sago-panda/sapari-be)
-
-**라이브 커머스 채팅 서버**<br/>
-`2026.06 ~` · 단독 담당
-
-WebSocket 전송 계층 · Pod 간 중계<br/>
-강퇴와 자동 밴 · RS256 룸 토큰
-
----
-
-채팅 관련 시험 **507개** 전부 통과
-
-채팅 모듈 커밋 **159개** 전부 본인
-
-조회가 실패해도 채팅은 열어 두는 지점 **5곳**
-
-</td>
-<td width="33%" valign="top">
-
-[![쿠폰야호](https://img.shields.io/badge/쿠폰야호-9E6A03?style=for-the-badge&logoColor=white)](https://github.com/coupon-yaho/cy-be)
-
-**선착순 발급과 적응형 대기열**<br/>
-`2026.08` · 조장, 5인 팀
-
-정합성 검증 배치<br/>
-대용량 시드 생성 · 스키마
-
----
-
-500 req/s 성공 응답 p99<br/>
-**2,240ms → 802ms**
-
-초과 발급 **0건**
-
-오염 데이터 검출 **800 / 800**
-
-</td>
-</tr>
-</table>
+- 500 req/s 성공 응답 p99 **2,240ms → 802ms**
+- 초과 발급 **0건**
+- 오염 데이터 기대 검출 **800 / 800**
 
 > [!TIP]
 > 음성인식 키오스크 · 해야지 · 블로그 플랫폼 · 조각집을 포함한 전체 프로젝트는 [포트폴리오](https://huhgeon.github.io/portfolio/)에 있습니다.
 
-<table>
-<tr>
-<td width="42%" valign="top">
+## ❯ cat ./about
 
-## About
+```text
+2020.03 ~ 2026.02   학력   명지대학교 컴퓨터공학과
+2026.04 ~ 2026.10   교육   LG U+ 유레카 백엔드 과정 수료
+2025.08 ~ 2026.01   경력   백엔드 개발 인턴
+2025.06             자격   SQLD · 한국데이터산업진흥원
 
-**학력**<br/>
-명지대학교 컴퓨터공학과<br/>
-`2020.03 ~ 2026.02`
+2025.06             금상   명지대학교 캡스톤디자인 · 음성인식 키오스크
+2024.09             대상   코드잇 데모데이 · 조각집 ZOGAKZIP
+```
 
-**교육**<br/>
-LG U+ 유레카 백엔드 과정 수료<br/>
-`2026.04 ~ 2026.10`
+## ❯ ls ./stack
 
-**경력**<br/>
-백엔드 개발 인턴<br/>
-`2025.08 ~ 2026.01`
+```text
+language/    Java   Python
+framework/   Spring Boot   JPA   FastAPI   Node.js
+data/        MySQL   Redis   MongoDB   Kafka
+infra/       Docker   Kubernetes   Grafana   k6
+```
 
-**자격**<br/>
-SQLD · 한국데이터산업진흥원<br/>
-`2025.06`
-
-</td>
-<td width="58%" valign="top">
-
-## Stack
-
-**Language**<br/>
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Framework**<br/>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Data**<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-**Infra**<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-🥇 &nbsp;**금상** &nbsp;명지대학교 캡스톤디자인 · 음성인식 키오스크 &nbsp;&nbsp;&nbsp; 🏆 &nbsp;**대상** &nbsp;코드잇 데모데이 · 조각집 ZOGAKZIP
-
-</div>
-
-## GitHub
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HUHGEON&theme=github_dark" alt="프로필 요약" />
+## ❯ git log --stat
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HUHGEON&theme=github_dark" alt="활동 통계" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HUHGEON&theme=github_dark" alt="커밋 기준 주력 언어" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=HUHGEON&theme=github-dark-blue&hide_border=true" alt="연속 기록" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HUHGEON&theme=github_dark&utcOffset=9" alt="시간대별 커밋" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HUHGEON&bg_color=0D1117&color=58A6FF&line=58A6FF&point=EEF2F6&area_color=1F6FEB&area=true&hide_border=true&custom_title=Contributions" alt="기여 그래프" />
-
-<br/>
-<br/>
-
 <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
 <a href="https://github.com/TOKENPHAGE"><img width="100%" src="https://api.tokenphage.com/badge/HUHGEON?theme=grass-claude&mode=dark" alt="Tokenphage" /></a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" alt="" />
