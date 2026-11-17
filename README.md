@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/hero-dark.svg"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/hero-light.svg" alt="허건 · Backend Developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/hero-dark.svg?v=2"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/hero-light.svg?v=2" alt="허건 · Backend Developer"></picture>
 
 <div align="center">
 
