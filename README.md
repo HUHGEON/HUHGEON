@@ -62,8 +62,7 @@ infra/       Docker   Kubernetes   Grafana   k6
 
 ## ❯ git log --stat
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HUHGEON&theme=github_dark" alt="활동 통계" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HUHGEON&theme=github_dark" alt="커밋 기준 주력 언어" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HUHGEON&theme=github_dark" alt="활동 통계" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HUHGEON&theme=github_dark" alt="커밋 기준 주력 언어" />
 
 <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
