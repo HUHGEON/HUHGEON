@@ -1,51 +1,41 @@
-# 허건
+# 허건 · Backend Developer
 
-백엔드 개발자입니다. 트래픽이 몰리고 외부가 실패하는 조건을 먼저 정해 두고, 그 조건을 버티는 서버를 만듭니다.
+트래픽이 몰리고 외부가 실패하는 조건을 버티는 서버를 만듭니다.
 
-[포트폴리오](https://huhgeon.github.io/portfolio/) · [기술 블로그](https://huhgeon.github.io) · rjs2337@naver.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=vercel&logoColor=white)](https://huhgeon.github.io/portfolio/)
+[![Blog](https://img.shields.io/badge/Blog-24292F?style=flat-square&logo=github&logoColor=white)](https://huhgeon.github.io)
+[![Email](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:rjs2337@naver.com)
 
-## Projects
+### Stack
 
-**[NOVA](https://github.com/Nova-Grandis/be)** — 대규모 트래픽 커머스 · 7인 팀 · 2026.09 ~ 10
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon&logoColor=white)
 
-- 10초에 5,000명이 몰릴 때 접수 응답 113ms, 서버 오류 0건
-- 동시 접수 데드락 4/4 → 0/4
-- Java · Spring Boot · MySQL · AWS SQS
+### Projects
 
-**[sapari 라이브 채팅](https://github.com/sago-panda/sapari-be)** — 라이브 커머스 채팅 서버 · 단독 담당 · 2026.06 ~
+**[NOVA](https://github.com/Nova-Grandis/be)** — 10초에 5,000명, 접수 응답 113ms · 서버 오류 0건 · 데드락 4/4 → 0/4
 
-- 채팅 관련 시험 507개 전부 통과
-- 채팅 모듈 커밋 159개 전부 본인
-- Spring WebFlux · WebSocket · Redis · MongoDB
+**[sapari 라이브 채팅](https://github.com/sago-panda/sapari-be)** — 채팅 서버 단독 담당, 시험 507개 통과 · 커밋 159개 전부 본인
 
-**[쿠폰야호](https://github.com/coupon-yaho/cy-be)** — 선착순 발급과 적응형 대기열 · 조장 · 2026.08
+**[쿠폰야호](https://github.com/coupon-yaho/cy-be)** — 선착순 발급, p99 2,240ms → 802ms · 초과 발급 0건
 
-- 500 req/s 성공 응답 p99 2,240ms → 802ms
-- 초과 발급 0건, 오염 데이터 검출 800 / 800
-- Spring Batch · MySQL · Redis · Kafka
+**[음성인식 키오스크](https://github.com/Say-It-It-s-OK/nlp)** — NLP 서버 설계 주도, 캡스톤디자인 금상
 
-**[음성인식 키오스크](https://github.com/Say-It-It-s-OK/nlp)** — NLP 서버 설계 주도 · 캡스톤디자인 금상 · 2025.03 ~ 06
+측정 조건과 나머지 프로젝트는 [포트폴리오](https://huhgeon.github.io/portfolio/)에 있습니다.
 
-- LLM 출력을 intents 9종 스키마로 가둬 순차 실행으로 변환
-- 시스템 프롬프트 1,087줄, NLP 서버 커밋 42/47
-- FastAPI · gpt-4o-mini · Express · MongoDB
+### About
 
-수치는 전부 직접 돌려 재 본 값입니다. 측정 조건과 나머지 프로젝트는 [포트폴리오](https://huhgeon.github.io/portfolio/)에 있습니다.
-
-## About
-
-- 명지대학교 컴퓨터공학과 · 2020.03 ~ 2026.02
-- LG U+ 유레카 백엔드 과정 수료 · 2026.04 ~ 2026.10
-- 백엔드 개발 인턴 · 2025.08 ~ 2026.01
-- SQLD · 2025.06
-- 명지대학교 캡스톤디자인 금상 · 코드잇 데모데이 대상
-
-## Stack
-
-- Java · Spring Boot · Spring WebFlux · JPA
-- Python · FastAPI · Node.js
-- MySQL · Redis · MongoDB · Kafka
-- Docker · Kubernetes · AWS · Grafana · k6
+명지대학교 컴퓨터공학과 · LG U+ 유레카 백엔드 과정 수료 · 백엔드 개발 인턴 · SQLD
 
 <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/HUHGEON/HUHGEON/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
