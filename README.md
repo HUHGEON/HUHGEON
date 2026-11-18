@@ -10,7 +10,7 @@
 
 <br/>
 
-## About Me
+## 🙋‍♂️ About Me
 
 - **명지대학교 컴퓨터공학과** · 2020.03 ~ 2026.02
 - **LG U+ 유레카** 백엔드 과정 수료 · 2026.04 ~ 2026.10
@@ -18,7 +18,7 @@
 
 <br/>
 
-## Career
+## 💼 Career
 
 **백엔드 개발 인턴** · 2025.08 ~ 2026.01
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-## Projects
+## 🚀 Projects
 
 **[NOVA](https://github.com/Nova-Grandis/be)** · 대규모 트래픽 커머스 (7인 팀, 2026.09 ~ 10)
 
@@ -49,7 +49,7 @@
 
 <br/>
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <table>
 <tr><td><b>Language</b></td><td><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td></tr>
@@ -61,7 +61,7 @@
 
 <br/>
 
-## Awards
+## 🏆 Awards
 
 - 명지대학교 캡스톤디자인 **금상** · 음성인식 키오스크
 - 코드잇 데모데이 **대상** · 조각집 ZOGAKZIP
