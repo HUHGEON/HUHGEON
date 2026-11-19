@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, 백엔드 개발자 허건입니다
+# 👋 안녕하세요, 백엔드 개발자 허건입니다
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white)](https://huhgeon.github.io/portfolio/)
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-24292F?style=for-the-badge&logo=github&logoColor=white)](https://huhgeon.github.io)
